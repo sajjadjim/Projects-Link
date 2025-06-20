@@ -30,9 +30,9 @@ Welcome to my project showcase! I'm a passionate MERN Stack Developer 🚀 who l
 | [🇧🇩 Bangladesh 2.0](https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/) | A patriotic, responsive landing page showcasing the spirit of modern Bangladesh. |
 | [🏫 Kids School](https://sajjadjim.github.io/Assignment-2--Kids-school/) | A playful and educational school-themed website for children. |
 | [🌿 Nature's Platter](https://sajjadjim.github.io/Assignment--3--Nature-s-Platter/) | A nature-inspired food website with a clean, elegant design. |
-| [✅ Task | List](https://sajjadjim.github.io/Assignment-5-DevBoard-TaskList/) | A personal task management app with dynamic features. |
-| [📘 English | জানালা](https://english-janala-sajjadjim.vercel.app/) | An English learning platform designed for Bangla-speaking users. |
-| [🖼️ Auction | Gallery](https://items-bit.vercel.app/) | A sleek item listing and auction-style gallery with interactive UI. |
+| [✅ Task  List](https://sajjadjim.github.io/Assignment-5-DevBoard-TaskList/) | A personal task management app with dynamic features. |
+| [📘 English  জানালা](https://english-janala-sajjadjim.vercel.app/) | An English learning platform designed for Bangla-speaking users. |
+| [🖼️ Auction  Gallery](https://items-bit.vercel.app/) | A sleek item listing and auction-style gallery with interactive UI. |
 | [🎨 Layer](https://layer-website-liard.vercel.app/) | A modern portfolio design concept showcasing creative layers. |
 | [📚 Boi Poka](https://boipoka-website.vercel.app/) | A virtual bookshelf for book lovers to explore and review titles. |
 | [📰 Dragon News](https://dragon-news-with-authentication.vercel.app/category/1) | A Firebase-authenticated news portal with categories and dynamic routing. |
