@@ -25,21 +25,22 @@ Welcome to my project showcase! I'm a passionate MERN Stack Developer 🚀 who l
 
 > 🔗 **Click on any project title to view it live!**
 
-| Project Name             | Description |
-|--------------------------|-------------|
-| [Bangladesh 2.0](https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/) | A patriotic, responsive landing page showcasing the spirit of modern Bangladesh 🇧🇩. |
-| [Kids School 🏫](https://sajjadjim.github.io/Assignment-2--Kids-school/) | A joyful learning website for children with vibrant UI and educational content. |
-| [Nature's Platter](https://sajjadjim.github.io/Assignment--3--Nature-s-Platter/) | A food-based website featuring natural platters and a clean product gallery. |
-| [Task | List](https://sajjadjim.github.io/Assignment-5-DevBoard-TaskList/) | A personal productivity web app to manage daily tasks efficiently. |
-| [English | জানালা](https://english-janala-sajjadjim.vercel.app/) | A language learning web platform for improving English skills with fun. |
-| [Auction | Gallery](https://items-bit.vercel.app/) | A live auction-style item listing platform with dynamic UI/UX and bidding features. |
-| [Layer](https://layer-website-liard.vercel.app/) | A sleek UI/UX portfolio website concept showing design layers. |
-| [Boi Poka 📚](https://boipoka-website.vercel.app/) | A digital bookshelf for book lovers to explore and review collections. |
-| [Dragon News](https://dragon-news-with-authentication.vercel.app/category/1) | A full-featured news portal with Firebase authentication and routing. |
-| [App Store](https://app-store-sajjadjim.vercel.app/) | A showcase of useful applications with a store-like interface. |
-| [Lost and Found 🔍](https://lost-and-found-website-c7da7.web.app/) | A community-based item return platform with real-time post features. |
+| 🧩 Project Name           | 📄 Description |
+|---------------------------|----------------|
+| [🇧🇩 Bangladesh 2.0](https://sajjadjim.github.io/Assignment-1--Bnagladesh-2.0/) | A patriotic, responsive landing page showcasing the spirit of modern Bangladesh. |
+| [🏫 Kids School](https://sajjadjim.github.io/Assignment-2--Kids-school/) | A playful and educational school-themed website for children. |
+| [🌿 Nature's Platter](https://sajjadjim.github.io/Assignment--3--Nature-s-Platter/) | A nature-inspired food website with a clean, elegant design. |
+| [✅ Task | List](https://sajjadjim.github.io/Assignment-5-DevBoard-TaskList/) | A personal task management app with dynamic features. |
+| [📘 English | জানালা](https://english-janala-sajjadjim.vercel.app/) | An English learning platform designed for Bangla-speaking users. |
+| [🖼️ Auction | Gallery](https://items-bit.vercel.app/) | A sleek item listing and auction-style gallery with interactive UI. |
+| [🎨 Layer](https://layer-website-liard.vercel.app/) | A modern portfolio design concept showcasing creative layers. |
+| [📚 Boi Poka](https://boipoka-website.vercel.app/) | A virtual bookshelf for book lovers to explore and review titles. |
+| [📰 Dragon News](https://dragon-news-with-authentication.vercel.app/category/1) | A Firebase-authenticated news portal with categories and dynamic routing. |
+| [🛒 App Store](https://app-store-sajjadjim.vercel.app/) | A modern app showcase store with a smooth product listing UI. |
+| [🔍 Lost and Found](https://lost-and-found-website-c7da7.web.app/) | A community platform for posting and finding lost items. |
 
 ---
+
 
 ## 🚀 Featured Highlights
 
