@@ -10,5 +10,6 @@
 - <p><a href="https://items-bit.vercel.app/" >Auction | Gellary</p>
 - <p><a href="https://layer-website-liard.vercel.app/" >Layer </p>
 - <p><a href="https://boipoka-website.vercel.app/" >Boi Poka</p>
+- <p><a href="https://dragon-news-with-authentication.vercel.app/category/1" >Dragon News</p>
 - <p><a href="https://app-store-sajjadjim.vercel.app/" >App Store</p>
 
